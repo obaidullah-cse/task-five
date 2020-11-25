@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.row{
+    background-image: url(../img/cloud_nature.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 101%;
+}
+.curvel-1{
+    border-bottom: 350px solid #042352;
+    border-right: 100px solid transparent;
+    height: 0;
+    width: 58%;
+}
+.half-width{
+    padding: 56px 0px 0px 250px;
+}
+button{
+    background-color: #BAD432;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    border-bottom: 3px solid #fff;
+}
+.border{
+    width: 100%;
+    height: 10px;
+    background-color: #BAD432;
+}
+.curvel-2{
+    border-top: 350px solid #00CCCD;
+    border-left: 100px solid transparent;
+    height: 0;
+    width: 58%;
+}
+.half-width-two{
+    padding: 56px 226px 0px 25px;
+    margin-top: -350px;
+}
